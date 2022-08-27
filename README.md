@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 ## Im Hodaifa!
 
-###### you can call me Hod
+#### a Cook, Overlander, and an Arhcitect 
 
-- 🔭 I’m currently working on a **tourism app**
+##### you can call me Hod
+
+<!-- - 🔭 I’m currently working on a **tourism app** -->
 - 🌱 I’m currently learning **ReactJS**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hodaifa-zawahreh)
 
