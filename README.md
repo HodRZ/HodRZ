@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HodRZ&theme=dracula)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodRZ&layout=compact)](https://github.com/HodRZ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodRZ&layout=compact&theme=dracula)](https://github.com/HodRZ/github-readme-stats)
