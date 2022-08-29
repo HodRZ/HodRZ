@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### Cook, Overlander, and Arhcitect 
 
-##### you can call me Hod
+<!--##### you can call me Hod-->
 
 <!-- - 🔭 I’m currently working on a **tourism app** -->
 - 🌱 I’m currently learning **ReactJS**
