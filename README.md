@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Im Hodaifa!
 
-#### Cook, Overlander, and Arhcitect 
+#### Cook, Overlander, and Architect 
 
 <!--##### you can call me Hod-->
 
