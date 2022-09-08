@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hodaifa-zawahreh)
 
-![HodRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HodRZ&count_private=true&show_icons=true&theme=dracula)
+![HodRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HodRZ&count_private=true&show_icons=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HodRZ&theme=dracula)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HodRZ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodRZ&theme=dracula)](https://github.com/HodRZ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodRZ)](https://github.com/HodRZ/github-readme-stats)
 
