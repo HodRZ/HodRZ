@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--##### you can call me Hod-->
 
 <!-- - 🔭 I’m currently working on a **tourism app** -->
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **.NET**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hodaifa-zawahreh)
 
 ![HodRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HodRZ&count_private=true&show_icons=true)
